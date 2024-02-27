@@ -1,3 +1,5 @@
+**This fork is intended for users who want to try the [abstract-art](https://github.com/gwhiteside/abstract-art) live wallpaper, but cannot install it because its target Android version is too old. Check out the [Releases](https://github.com/williehwc/abstract-art/releases) page for the APK. Note that on some devices, live wallpapers can be found in the overflow (three dots) menu. The original README follows.**
+
 Abstract Art
 ============
 
